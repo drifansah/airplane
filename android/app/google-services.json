@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17241157582",
+    "project_id": "airplane-73f93",
+    "storage_bucket": "airplane-73f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17241157582:android:43468c5382ae8ac3fcc59f",
+        "android_client_info": {
+          "package_name": "com.rifansah.appdua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZIwEO6SNsgzmKT0C_jlczdLfZEUFUlWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
